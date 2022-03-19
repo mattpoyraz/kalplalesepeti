@@ -10,6 +10,9 @@ public class FirstDay1 {
 		System.out.println("ismet");
 		System.out.println("poyraz");
 		System.out.println("united");
+		System.out.println("dallas");
+		System.out.println("turkey");
+		
 	}
 
 }
