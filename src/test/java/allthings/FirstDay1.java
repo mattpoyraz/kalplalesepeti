@@ -8,6 +8,7 @@ public class FirstDay1 {
 	public void proje1() {
 		
 		System.out.println("ismet");
+		System.out.println("poyraz");
 	}
 
 }
