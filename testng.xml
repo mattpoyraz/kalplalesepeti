@@ -1,16 +1,7 @@
 <suite name="sdf">
 <test>
-
-
 <classes>
-
 <class name="alltings.FirstDay1.java"/>
-
-
 </classes>
-
-
 </test>
-
-
 </suite>
