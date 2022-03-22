@@ -14,7 +14,6 @@ public class FirstDay1 {
 		System.out.println("turkey"); 
 		System.out.println("turkey22"); 
 		
-		
 	}
 
 }
