@@ -17,8 +17,14 @@ public class YouTube1 {
 		WebDriverManager.edgedriver().setup();
 		WebDriver driver = new EdgeDriver();
 		driver.get("https://rahulshettyacademy.com");
+		driver.manage().window().maximize();
 		System.out.println(driver.getTitle());
 		System.out.println(driver.getCurrentUrl());
+		driver.navigate().to("https://amazon.com");
+		System.out.println(driver.getTitle());
+		System.out.println(driver.getCurrentUrl());
+		driver.navigate().back();
+		driver.navigate().forward();
 		driver.close();
 		driver.quit();// 
 		//System.out.println("this is the page source of this url : "+driver.getPageSource());
